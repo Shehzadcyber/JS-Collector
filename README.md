@@ -34,7 +34,8 @@ JS-Collector silently monitors all HTTP traffic flowing through Burp Suite and e
 
 ---
 
-<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/d86e3c67-36d2-4f02-9ce1-774e3ebf9654" />
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/5b139f6d-9d26-4659-8504-a0f7ba6ee143" />
+
 
 
 ## Installation Process (Clone + Install the `.jar` in Burp)
