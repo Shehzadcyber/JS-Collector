@@ -4,6 +4,9 @@
 JS-Collector is a Burp Suite extension that automatically finds and collects all JavaScript (JS) URLs across Burp’s entire workspace—covering Burp HTTP history and tools such as JS Link Finder, JS Miner, and GAP. It consolidates results by removing duplicates, so you get a clean, unique list of JS endpoints to analyze.
 
 
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/d86e3c67-36d2-4f02-9ce1-774e3ebf9654" />
+
+
 ## Installation Process (Clone + Install the `.jar` in Burp)
 
 1. **Clone the repository**
