@@ -43,7 +43,7 @@ JS-Collector silently monitors all HTTP traffic flowing through Burp Suite and e
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shehzadcyber/JS-Collector.git
-   cd JS-Collector
+   Or download zip file for windows 
    ```
 
 2. **Find the built `.jar` file**
