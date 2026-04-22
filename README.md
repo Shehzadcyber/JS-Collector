@@ -13,7 +13,7 @@ JS-Collector silently monitors all HTTP traffic flowing through Burp Suite and e
 
 ## Features
 
-| Feature | Detail |
+| Features | Detail |
 |---|---|
 | Passive collection | Hooks IHttpListener + IProxyListener |
 | Multi-source extraction | Proxy traffic, Sitemap, Scanner, Repeater, Intruder |
